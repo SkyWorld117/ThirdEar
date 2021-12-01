@@ -1,7 +1,0 @@
-com/example/thirdear/BuildConfig.java
- com.example.thirdear.BuildConfig
-com/example/thirdear/MainActivity.java
- com.example.thirdear.MainActivity
- com.example.thirdear.MainActivity$1
- com.example.thirdear.MainActivity$1RecordThread
- com.example.thirdear.MainActivity$2
